@@ -20,5 +20,7 @@ y =  pc   does image have any object/ objectness score
 loss = (y1-yp1)^2 + (y2-yp2)^2 + ...
 
 We do this in our feature map by Conv
+
+
 ![image](https://github.com/wannasleepforlong/YOLO-Vehicle-Detection/assets/109717763/67535fb1-4cc5-463e-a188-c4401baa20ac)
 
